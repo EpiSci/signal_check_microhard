@@ -1,7 +1,7 @@
 #! /bin/bash
 
 #AT+MWRSSI #command to obtain radio rssi
-u#!/bin/sh
+
 
 HOST='192.168.168.12'
 USER='admin'
