@@ -17,6 +17,10 @@ echo "$PASSWD"
 sleep 2
 echo "$CMD"
 sleep 2
+read rssi
+sleep 2
+echo rssi
+sleep 2
 echo "exit"
 ) | telnet
 
