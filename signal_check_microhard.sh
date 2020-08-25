@@ -19,7 +19,7 @@ sleep 2
 echo "$CMD"
 sleep 2
 echo "exit"
-) | telnet | sed -e "1,/$MARKER/d" >> output.txt
+) | telnet 
 
 function getSignal(){
 	# Get Mac add & signal strength
