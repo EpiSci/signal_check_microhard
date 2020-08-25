@@ -11,7 +11,7 @@ set password [lindex $argv 2]
 #This spawns the telnet program and connects it to the variable name
 spawn telnet $name 
 #The script expects login
-expect "login:" 
+expect "UserDevice login:" 
 #The script sends the user variable
 send "$user "
 #The script expects Password
@@ -19,4 +19,4 @@ expect "Password:"
 #The script sends the password variable
 send "$password "
 #This hands control of the keyboard over to you (Nice expect feature!)
-interact
+AT+MWRSSI
