@@ -1,29 +1,36 @@
 #! /bin/bash
 
 #AT+MWRSSI #command to obtain radio rssi
-Var=1
-while [ $Var -lt 20 ]
-do
+u#!/bin/sh
+
 HOST='192.168.168.12'
 USER='admin'
 PASSWD='password'
 CMD='AT+MWRSSI'
 MARKER='XXXX1234:AUIE'
 
-(echo "$HOST - " ; (
-    echo unset echo
-    echo open "$HOST"
-    sleep 1
-    echo "$USER"
-    sleep 1
-    echo "$PASSWD"
-    sleep 1
-    echo echo "$MARKER"
-    echo "$CMD"
-    #I want to save the output from my $cmd to an varaible $Output
-    #Then I want to write "$HOST - $Output" to a file named "output.txt"
-    sleep 2
-    echo "exit"
-    ) | telnet | sed -e "1,/$MARKER/d" ) >> output.txt
-Var=$((Var + 1))
-done
+(
+echo unset echo
+echo open "$HOST"
+sleep 2
+echo "$USER"
+sleep 2
+echo "$PASSWD"
+sleep 2
+echo "$CMD"
+sleep 2
+echo "exit"
+) | telnet | sed -e "1,/$MARKER/d" ) >> output.txt
+
+function getSignal(){
+	# Get Mac add & signal strength
+	result=0
+	for i in {1..10}
+	do
+		output=
+		((result+=$output))
+	done
+	((result/=10))
+	echo $result
+}
+
