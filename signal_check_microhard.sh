@@ -16,7 +16,7 @@ sleep 2
 echo "$PASSWD"
 sleep 2
 echo "$CMD"
-read rssi
+read -r rssi
 sleep 2
 echo $rssi
 sleep 2
