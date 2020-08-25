@@ -4,7 +4,7 @@
 Var=1
 while [ $Var -lt 20 ]
 do
-HOST='192.168.168.12'$Var
+HOST='192.168.168.12'
 USER='admin'
 PASSWD='password'
 CMD='AT+MWRSSI'
