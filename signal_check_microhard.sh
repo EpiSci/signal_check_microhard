@@ -10,7 +10,6 @@ CMD='AT+MWRSSI'
 MARKER='XXXX1234:AUIE'
 
 (
-echo unset echo
 echo open "$HOST"
 sleep 2
 echo "$USER"
