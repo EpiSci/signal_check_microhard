@@ -4,8 +4,8 @@
 u#!/bin/sh
 
 HOST='192.168.168.12'
-USER='User'
-PASSWD='Pass'
+USER='admin'
+PASSWD='password'
 CMD='AT+MWRSSI'
 
 (
