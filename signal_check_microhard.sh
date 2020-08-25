@@ -1,16 +1,24 @@
 #! /bin/bash
 
 #AT+MWRSSI #command to obtain radio rssi
-user = "admin"
-password = "password"
-echo "=============== Signal strength checking ==============="
-connectedIP=(192.168.168.12)
+u#!/bin/sh
 
-telnet $connectedIP
-echo $user
-echo $password
+HOST='192.168.168.12'
+USER='User'
+PASSWD='Pass'
+CMD='AT+MWRSSI'
 
-AT+MWRSSI
+(
+echo open "$HOST"
+sleep 2
+echo "$USER"
+sleep 2
+echo "$PASSWD"
+sleep 2
+echo "$CMD"
+sleep 2
+echo "exit"
+) | telnet
 
 function getSignal(){
 	# Get Mac add & signal strength
