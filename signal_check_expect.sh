@@ -19,4 +19,4 @@ expect "Password:"
 #The script sends the password variable
 send "$password "
 #This hands control of the keyboard over to you (Nice expect feature!)
-AT+MWRSSI
+send "AT+MWRSSI"
