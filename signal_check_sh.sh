@@ -1,22 +1,22 @@
 #!/bin/sh
 Var=1
-while [ $Var -lt 20 ]
-do
 HOST='192.168.168.12'
 USER='admin'
 PASSWD='password'
 CMD='AT+MWRSSI'
 MARKER='XXXX1234:AUIE'
 
-(echo "$HOST - " ; (
-    echo unset echo
+while [ $Var -lt 20 ]
+do
+(echo "$HOST" ; (
     echo open "$HOST"
-    sleep 1
+    sleep 2
     echo "$USER"
-    sleep 1
+    sleep 2
     echo "$PASSWD"
-    sleep 1
+    sleep 2
     echo echo "$MARKER"
+    sleep 2
     echo "$CMD"
     #I want to save the output from my $cmd to an varaible $Output
     #Then I want to write "$HOST - $Output" to a file named "output.txt"
