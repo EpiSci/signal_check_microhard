@@ -9,6 +9,7 @@ MARKER='XXXX1234:AUIE'
 while [ $Var -lt 20 ]
 do
 (echo "$HOST" ; (
+    echo unset echo
     echo open "$HOST"
     sleep 2
     echo "$USER"
