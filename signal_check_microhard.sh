@@ -15,8 +15,8 @@ echo "$USER"
 sleep 0.25
 echo "$PASSWD"
 sleep 0.25
-r = 0
-while r -lt 20:
+r=0
+while [[ $r < 20 ]]
 do
 	echo "$CMD"
 	sleep 1
