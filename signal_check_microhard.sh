@@ -19,7 +19,7 @@ r=0
 while true
 do
 	echo "$CMD"
-	#sleep 0.25
+	sleep 0.25
 	r+=1
 done
 echo "exit"
