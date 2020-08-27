@@ -11,13 +11,13 @@ CMD='AT+MWRSSI'
 
 (
 echo open "$HOST"
-#sleep 1
+sleep 0.5
 echo "$USER"
-#sleep 1
+sleep 0.5
 echo "$PASSWD"
-#sleep 1
+sleep 0.5
 echo "$CMD"
-sleep 1
+sleep 0.5
 echo "exit"
 ) | telnet 
 
