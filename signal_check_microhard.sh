@@ -16,7 +16,7 @@ sleep 0.25
 echo "$PASSWD"
 sleep 0.25
 r=0
-while [[ $r < 20 ]]
+while true
 do
 	echo "$CMD"
 	#sleep 0.25
