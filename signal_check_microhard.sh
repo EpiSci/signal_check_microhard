@@ -15,8 +15,13 @@ echo "$USER"
 sleep 0.25
 echo "$PASSWD"
 sleep 0.25
-echo "$CMD"
-sleep 1
+r = 0
+while r -lt 20:
+do
+	echo "$CMD"
+	sleep 1
+	r+=1
+done
 echo "exit"
 ) | telnet 
 
