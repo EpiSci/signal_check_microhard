@@ -17,7 +17,7 @@ sleep 0.5
 echo "$PASSWD"
 sleep 0.5
 echo "$CMD"
-sleep 0.5
+sleep 1
 echo "exit"
 ) | telnet 
 
