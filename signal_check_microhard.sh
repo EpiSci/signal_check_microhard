@@ -19,7 +19,7 @@ r=0
 while [[ $r < 20 ]]
 do
 	echo "$CMD"
-	sleep 1
+	sleep 0.5
 	r+=1
 done
 echo "exit"
