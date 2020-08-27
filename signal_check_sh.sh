@@ -11,13 +11,13 @@ do
 (echo "$HOST" ; (
     echo unset echo
     echo open "$HOST"
-    sleep 2
+    sleep 1
     echo "$USER"
-    sleep 2
+    sleep 1
     echo "$PASSWD"
-    sleep 2
+    sleep 1
     echo echo "$MARKER"
-    sleep 2
+    sleep 1
     echo "$CMD"
     #I want to save the output from my $cmd to an varaible $Output
     #Then I want to write "$HOST - $Output" to a file named "output.txt"

@@ -8,14 +8,13 @@ USER='admin'
 PASSWD='password'
 CMD='AT+MWRSSI'
 
-
 (
 echo open "$HOST"
-sleep 0.5
+sleep 0.25
 echo "$USER"
-sleep 0.5
+sleep 0.25
 echo "$PASSWD"
-sleep 0.5
+sleep 0.25
 echo "$CMD"
 sleep 1
 echo "exit"
