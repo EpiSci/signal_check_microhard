@@ -23,6 +23,6 @@ do
 	r+=1
 done
 echo "exit"
-) | telnet | tee rssi_output.txt
+) | telnet | tee rssi_output.txt | while read line; do echo "[`date -Iseconds`] $line"; done
 
 
