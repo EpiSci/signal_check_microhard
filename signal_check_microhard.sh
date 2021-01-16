@@ -23,6 +23,6 @@ do
 	r+=1
 done
 echo "exit"
-) | telnet 
+) | telnet | tee rssi_output.txt
 
 
