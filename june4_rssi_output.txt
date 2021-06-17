@@ -1,0 +1,2022 @@
+telnet> Trying 192.168.168.1...
+Connected to 192.168.168.1.
+Escape character is '^]'.
+UserDevice login: admin
+Password: 
+AT+MWRSSI
+AT+MWRSSI
+AT+MWRSSI
+AT+MWRSSI
+
+Entering character mode
+Escape character is '^]'.
+
+Command Line Interface
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -42 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -55 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -55 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -58 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -73 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -73 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -63 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -62 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -61 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -60 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -59 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -55 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -44 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -55 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -57 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -56 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -54 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -44 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -47 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -48 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -42 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -42 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -43 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -46 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -44 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -42 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -42 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -45 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -43 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -43 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -43 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -49 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -51 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -50 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -52 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:FE:8C  -53 dBm
+OK
+UserDevice> AT+MWRSSI

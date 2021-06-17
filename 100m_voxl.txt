@@ -1,0 +1,627 @@
+telnet> Trying 192.168.168.2...
+Connected to 192.168.168.2.
+Escape character is '^]'.
+UserDevice login: admin
+Password: 
+AT+MWRSSI
+AT+MWRSSI
+AT+MWRSSI
+AT+MWRSSI
+
+Entering character mode
+Escape character is '^]'.
+
+Command Line Interface
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -76 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -78 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -79 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -79 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -76 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -73 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -73 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -73 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -74 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -76 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -74 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -64 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -72 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -71 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -70 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -69 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -65 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -66 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -67 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI
+  00:0F:92:FB:C9:B6  -68 dBm
+OK
+UserDevice> AT+MWRSSI

@@ -3,7 +3,7 @@
 #AT+MWRSSI #command to obtain radio rssi
 
 
-HOST='192.168.168.1'
+HOST='192.168.168.2'
 USER='admin'
 PASSWD='password'
 CMD='AT+MWRSSI'
@@ -23,6 +23,6 @@ do
 	r+=1
 done
 echo "exit"
-) | telnet | tee rssi_output.txt | while read line; do echo "[`date -Iseconds`] $line"; done
+) | telnet | tee voxl_output.txt | while read line; do echo "[`date -Iseconds`] $line"; done
 
 
