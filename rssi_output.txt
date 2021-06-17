@@ -4,2019 +4,221 @@ Escape character is '^]'.
 UserDevice login: admin
 Password: 
 AT+MWRSSI
+12:51:56
 AT+MWRSSI
+12:51:56
 AT+MWRSSI
+12:51:57
 AT+MWRSSI
+12:51:57
 
 Entering character mode
 Escape character is '^]'.
 
 Command Line Interface
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -35 dBm
 OK
+UserDevice> 12:51:56
+Invalid command "12:51:56"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:56
+Invalid command "12:51:56"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:51:57
+Invalid command "12:51:57"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:57
+Invalid command "12:51:57"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:57
+Invalid command "12:51:57"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:57
+Invalid command "12:51:57"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:51:58
+Invalid command "12:51:58"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:51:58
+Invalid command "12:51:58"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:51:58
+Invalid command "12:51:58"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:58
+Invalid command "12:51:58"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:51:59
+Invalid command "12:51:59"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:51:59
+Invalid command "12:51:59"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:51:59
+Invalid command "12:51:59"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:51:59
+Invalid command "12:51:59"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:00
+Invalid command "12:52:00"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:52:00
+Invalid command "12:52:00"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:00
+Invalid command "12:52:00"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:00
+Invalid command "12:52:00"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:01
+Invalid command "12:52:01"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:01
+Invalid command "12:52:01"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:52:01
+Invalid command "12:52:01"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:01
+Invalid command "12:52:01"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:02
+Invalid command "12:52:02"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -42 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:02
+Invalid command "12:52:02"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:02
+Invalid command "12:52:02"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:03
+Invalid command "12:52:03"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:52:03
+Invalid command "12:52:03"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:03
+Invalid command "12:52:03"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:03
+Invalid command "12:52:03"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:04
+Invalid command "12:52:04"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:52:04
+Invalid command "12:52:04"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:04
+Invalid command "12:52:04"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:04
+Invalid command "12:52:04"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:05
+Invalid command "12:52:05"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:05
+Invalid command "12:52:05"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:05
+Invalid command "12:52:05"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:05
+Invalid command "12:52:05"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
+UserDevice> 12:52:06
+Invalid command "12:52:06"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
+  00:0F:92:FB:FE:8C  -37 dBm
 OK
+UserDevice> 12:52:06
+Invalid command "12:52:06"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
+  00:0F:92:FB:FE:8C  -36 dBm
 OK
+UserDevice> 12:52:06
+Invalid command "12:52:06"
 UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
+  00:0F:92:FB:FE:8C  -38 dBm
 OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -55 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -55 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -58 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -73 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -73 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -72 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -72 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -71 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -70 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -67 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -69 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -68 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -63 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -66 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -64 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -65 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -62 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -61 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -60 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -59 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -55 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -44 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -55 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -57 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -56 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -54 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -44 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -47 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -48 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -42 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -42 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -43 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -46 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -44 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -42 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -42 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -45 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -43 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -43 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -43 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -49 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -51 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -50 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -52 dBm
-OK
-UserDevice> AT+MWRSSI
-  00:0F:92:FB:FE:8C  -53 dBm
-OK
+UserDevice> 12:52:06
+Invalid command "12:52:06"
 UserDevice> AT+MWRSSI

@@ -1,7 +1,9 @@
 #! /bin/bash
 
 #AT+MWRSSI #command to obtain radio rssi
-
+timestamp() {
+  date +"%T" # current time
+}
 
 HOST='192.168.168.1'
 USER='admin'
@@ -19,10 +21,11 @@ r=0
 while true
 do
 	echo "$CMD"
+	timestamp
 	sleep 0.25
 	r+=1
 done
 echo "exit"
-) | telnet | tee rssi_output.txt | while read line; do echo "[`date -Iseconds`] $line"; done
+) | telnet | tee rssi_output.txt 
 
 
